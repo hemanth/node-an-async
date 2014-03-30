@@ -1,0 +1,23 @@
+{
+  "name": "an-async",
+  "version": "0.1.0",
+  "description": "Checks if the given API is an async or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanth/node-an-async.git"
+  },
+  "keywords": [
+    "async",
+    "check"
+  ],
+  "author": "Hemanth.HM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hemanth/node-an-async/issues"
+  },
+  "homepage": "https://github.com/hemanth/node-an-async"
+}
