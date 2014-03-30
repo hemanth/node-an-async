@@ -1,6 +1,6 @@
 {
   "name": "an-async",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Checks if the given API is an async or not.",
   "main": "index.js",
   "scripts": {
